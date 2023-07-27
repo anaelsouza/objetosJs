@@ -1,5 +1,5 @@
 # objetosJs
 
-Repositório Git
+git Repository
 
-Começando a me adaptar com o JS, conhecendo "Objetos".
+Starting to adapt with JS, getting to know "Objects".
